@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=jenil97&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jenil97&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm 𝓙𝓮𝓷𝓲𝓵</h1>
 <h2 align="center">A Frontend developer From India </h2>
