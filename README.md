@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jenil97&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=jenil97&color=blue&style=flat-square)
 
 <h1 align="center">Hi 👋, I'm 𝓙𝓮𝓷𝓲𝓵</h1>
 <h2 align="center">A Frontend developer From India </h2>
