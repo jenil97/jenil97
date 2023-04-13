@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=jenil97&color=blue&style=flat-square)
 
 <h1 align="center">Hi 👋, I'm Jenil</h1>
-<h2 align="center">A Frontend developer From India. 🙏 </h2>
+<h2 align="center">A MERN Stack developer From India. 🙏 </h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenil-patel-425694214/)
